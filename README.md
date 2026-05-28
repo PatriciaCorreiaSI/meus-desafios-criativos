@@ -1,6 +1,8 @@
 # 🎯 Desafio Criativo: Extraindo Insights de Produtos para Clientes Investidores
 
-Este desafio procura explorar a aplicação de Técnidas de Engenharia de Prompt para extrair insights com apoio de IA, usando contexto, critérios de análise e cuidados com dados sensíveis.
+Este desafio procura explorar a aplicação de Técnidas de Engenharia de Prompt para extrair insights com apoio de IA, usando contexto, critérios de análise e cuidados com dados sensíveis. 
+
+O cenário fictício criado é a necessidade de gerar insigths de análise sobre produtos de investimento para que uma equipe técnica de consultoria financeira possa orientar e apoiar seus clientes a partir do perfil de cada investidor.
 
 > [!TIP]
 > Um bom prompt nasce de intenção clara, contexto e instruções específicas.
