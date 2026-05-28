@@ -1,6 +1,9 @@
 # 🎯 Desafio Criativo: Extraindo Insights do Feedback de Clientes Bancários
 
-Um bom prompt nasce de intenção clara, contexto e instruções específicas.
+Este desafio procura explorar a aplicação de Técnidas de Engenharia de Prompt para extrair insights com apoio de IA, usando contexto, critérios de análise e cuidados com dados sensíveis.
+
+> [!TIP]
+> Um bom prompt nasce de intenção clara, contexto e instruções específicas.
 
 
 --------------------------------------------------
