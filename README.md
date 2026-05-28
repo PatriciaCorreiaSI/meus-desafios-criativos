@@ -1,4 +1,4 @@
-# 🎯 Desafio Criativo: Extraindo Insights do Feedback de Clientes Bancários
+# 🎯 Desafio Criativo: Extraindo Insights de Produtos para Clientes Investidores
 
 Este desafio procura explorar a aplicação de Técnidas de Engenharia de Prompt para extrair insights com apoio de IA, usando contexto, critérios de análise e cuidados com dados sensíveis.
 
